@@ -1,7 +1,7 @@
 # Exploratory Analysis on CitiBike
 
 1. CitiBike Quarterly Analysis Q1 2021 - User type Analysis
-![UserType](Images/Analysis of UserType.jpg)
+![UserType](Images/Analysis of UserType.JPG)
 
 2. CitiBike Quarterly Analysis Q1 2021 - Birth Year Analysis
 
